@@ -86,7 +86,8 @@ cp wallet.json.example wallet.json
 Then open the file: wallet.json
 
 Paste your test wallet details (⚠️ never use your real wallet):
-![Uploading IMG_20250630_110429.png…]()
+![IMG_20250630_110429](https://github.com/user-attachments/assets/564e1175-80b9-40c2-afa3-38d1c928dd61)
+
 
 
 
