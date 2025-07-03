@@ -12,8 +12,6 @@
 
 ---
 
----
-
 ## 🔹 Step 1: Install Bun
 
 ```bash
@@ -52,8 +50,10 @@ bun start
 
 **Done! Wallet Generator is live. 🔐**
 
-
 ---
+---
+---
+
 # 🪙 TASK 2 : TOKEN TRANSFER
 
 ### 🔹 STEP 1: Open in Codespace
