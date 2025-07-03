@@ -86,7 +86,8 @@ cp wallet.json.example wallet.json
 Then open the file: wallet.json
 
 Paste your test wallet details (⚠️ never use your real wallet):
-![Wallet Generation](IMG_20250630_110429.png)
+![Uploading IMG_20250630_110429.png…]()
+
 
 
 ```
