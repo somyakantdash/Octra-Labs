@@ -25,4 +25,4 @@ There is no confirmed information about a Octra Labs airdrop
 
 2️⃣ Check: https://sosovalue.com/project/octra-1844240879174242306
 
-# DO Task [Check Out](Nothing.md)
+# DO Task [Check Out](nothing.md)
