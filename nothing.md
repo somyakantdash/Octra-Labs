@@ -110,3 +110,25 @@ python cli.py send --to oct5ziFzQJkiJFPfcQeuAmp4vhfQgjwb8gyx2W2TZdGhzJm --amount
 🟢 That’s it! You can now access the wallet UI and make transactions to addresses found on the explorer: https://octrascan.io/
 
 ---
+
+---
+# 🪙 TASK 2 : ENCRYPT / DECRYPT BALANCE
+
+### 🔹 STEP 1: Follow Task 1 Steps & Open Wallet UI
+```bash
+python cli.py send --to oct5ziFzQJkiJFPfcQeuAmp4vhfQgjwb8gyx2W2TZdGhzJm --amount 0.01
+```
+
+---
+
+### 🔹 STEP 2: Encrypt or Decrypt
+
+![6303279010335018121](https://github.com/user-attachments/assets/7a192390-9572-4ab7-8722-01cf3bb95153)
+
+
+• Use Command `4` For Encrypt Balance ( Ex 10 $OCT )
+• Use Command `5` For Decrypt Balance ( Ex 1 $OCT )
+
+Keep doing transactions, you can also use other commands like `6` & `7` for private Transfer & Claim , Use Address From Explorer: https://octrascan.io/
+
+---
