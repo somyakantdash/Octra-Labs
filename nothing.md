@@ -132,3 +132,36 @@ python cli.py send --to oct5ziFzQJkiJFPfcQeuAmp4vhfQgjwb8gyx2W2TZdGhzJm --amount
 Keep doing transactions, you can also use other commands like `6` & `7` for private Transfer & Claim , Use Address From Explorer: https://octrascan.io/
 
 ---
+
+## If Encrypt or Decrypt Option Not Showing
+
+### 🔹 STEP 1: Follow Task 1 Steps & Open Terminal
+
+1. Go to - [https://github.com/octra-labs/octra_pre_client](https://github.com/octra-labs/octra_pre_client)
+2. Click the green `Code` button  
+3. Select → `Open with Existing Codespaces`
+4. Wait for the environment to fully load > Open Terminal
+
+
+Put One by One Command
+```
+git remote add upstream https://github.com/octra-labs/octra_pre_client.git
+```
+```
+git remote -v
+```
+```
+git fetch upstream
+```
+```
+git merge upstream/main
+```
+```
+./run.sh
+```
+
+Then Open Wallet UI
+```
+python cli.py send --to oct5ziFzQJkiJFPfcQeuAmp4vhfQgjwb8gyx2W2TZdGhzJm --amount 0.01
+```
+Follow Task 2 Steps 2
