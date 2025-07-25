@@ -165,3 +165,20 @@ Then Open Wallet UI
 python cli.py send --to oct5ziFzQJkiJFPfcQeuAmp4vhfQgjwb8gyx2W2TZdGhzJm --amount 0.01
 ```
 Follow Task 2 Steps 2
+
+----
+----
+
+## If U Getting This Error
+
+<img width="1931" height="264" alt="Screenshot 2025-07-25 091931" src="https://github.com/user-attachments/assets/d25d44e6-6a6e-45b7-b014-a8cbd9625c36" />
+
+Just Put Below Command in ur Terminal
+```
+pip install cryptography
+```
+
+Then Open Wallet UI (Do Whatever u Like)
+```
+python cli.py send --to oct5ziFzQJkiJFPfcQeuAmp4vhfQgjwb8gyx2W2TZdGhzJm --amount 0.01
+```
